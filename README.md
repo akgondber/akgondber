@@ -1,7 +1,7 @@
 <h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm an Open Source Contributor. My preferred topics are building web and console  applications. I have a knowledge of different programming languages. Now I'm more focused on JavaScript and python. In spare time I like to read, sports, play games including those that have been developed by me. One of my favorite console games are what-is-word-cli and typing-game-cli.</samp></h4>
 
 <p align="center">
-  <img width="230" src="./media/what-is-word.gif">
+  <img width="400" src="./media/what-is-word.gif">
 </p>
 
 <details>
